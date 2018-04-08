@@ -11,7 +11,7 @@
 - в качестве Run Scheme выбрать Run 
 
 **2. Через консоль с использованием Vapor:** 
-- установить [Vapor](https://docs.vapor.codes/3.0/install/macos/) (Homebrew можно найти [здесь](https://brew.sh))
+- [установить](https://docs.vapor.codes/3.0/install/macos/) Vapor (Homebrew можно найти [здесь](https://brew.sh))
 - перейти в директорию проекта командой `cd directory`
 - ввести `vapor xcode`, выбрать `y`
 - в качестве Run Scheme выбрать Run 
