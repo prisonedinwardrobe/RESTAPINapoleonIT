@@ -23,3 +23,6 @@
 
 # misc
 Маршруты были проверены с помощью [Postman](https://www.getpostman.com)
+
+# UPDATE: CLOUD DEPLOY
+Проект был задеплоен через сервис [Vapor Cloud](https://vapor.cloud) и доступен по ссылке https://cloudnapoleon.vapor.cloud
